@@ -7,4 +7,7 @@ function sayHi(name) {
 }
 
 sayHi("Jim");
+
+
+ตอบ ชื่อตัวแปรซ้ำ มี name 2 ตัว
 ```
